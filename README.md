@@ -5,7 +5,8 @@
 # Install
 
 ```bash
-$ brew install oncletom/cpdf/cpdf
+$ brew tap oncletom/cpdf
+$ brew install cpdf
 ```
 
 # Usage
