@@ -4,7 +4,7 @@ cask 'adobe-photoshop-lightroom5' do
 
   url "https://trials3.adobe.com/AdobeProducts/LTRM/#{version.major}/osx10/Lightroom_#{version.major}_LS11.dmg"
   name 'Adobe Photoshop Lightroom 5'
-  homepage 'https://www.adobe.com/products/photoshop-lightroom.html'
+  homepage 'https://helpx.adobe.com/fr/download-install/kb/lightroom-downloads.html'
 
   auto_updates true
 
