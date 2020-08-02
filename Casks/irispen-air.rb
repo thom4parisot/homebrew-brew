@@ -1,6 +1,6 @@
 cask 'irispen-air' do
-  version 'v3-CD18n43'
-  sha256 'd95754c2593019986546250a3bd68c0340517b0dc02b986b2e63018568dc8f75'
+  version 'v4-CD20n053'
+  sha256 '0c625be45b5efdac1a4dc39b614079e553c8441d171ca3ab5666c7d9c8c0dbd2'
 
   url "http://iris.oventura.com/Software/IRISPen-Air-7-#{version}.dmg"
   name 'IRISPen Air 7'
