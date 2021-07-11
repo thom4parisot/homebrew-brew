@@ -1,9 +1,9 @@
 class Cpdf < Formula
   desc "Coherent PDF Command-line Tools to modify PDF files"
   homepage "https://www.coherentpdf.com/"
-  url "https://github.com/coherentgraphics/cpdf-binaries/raw/11636b3a6578643c30e8f1cd91e53dd47f237b9d/OSX-Intel/cpdf"
-  version "2.3.1"
-  sha256 "7762cf030d289373f4364852e6caad00d8b88dceac1a0ce23c0e6a351d909eb3"
+  url "https://raw.githubusercontent.com/coherentgraphics/cpdf-binaries/d4e7ae79f65ef3f085d09e3c876eb9a8ed1ced34/OSX-Intel/cpdf"
+  version "2.4"
+  sha256 "8ddd3aac989cca5bdf9734dea233ba026a029d82b0e4fa745c7115de3519ffd8"
 
   bottle :unneeded
 
