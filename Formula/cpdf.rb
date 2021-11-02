@@ -5,8 +5,6 @@ class Cpdf < Formula
   version "2.4"
   sha256 "8ddd3aac989cca5bdf9734dea233ba026a029d82b0e4fa745c7115de3519ffd8"
 
-  bottle :unneeded
-
   def install
     bin.install "cpdf"
   end
